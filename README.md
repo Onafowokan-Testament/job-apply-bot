@@ -1,3 +1,3 @@
 # job-apply-bot
 
-Automates application of job on linkedin using selenium
+# Automates application of job on linkedin using selenium
